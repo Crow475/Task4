@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.btn-warning {
+  background: #ffc107;
+  color: #ffffff;
+}
+
+.btn-warning:disabled {
+  background: #ffc107;
+  color: #ffffff;
+}
+
+.btn-success {
+  background: #198754;
+  color: #ffffff;
+}
+
+.btn-success:disabled {
+  background: #198754;
+  color: #ffffff;
+}
